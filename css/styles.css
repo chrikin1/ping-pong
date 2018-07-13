@@ -1,14 +1,36 @@
-h1{
-  background-color:#F15A29;
-color: white;
-text-align: center;
- background-color: white;
-  }"
-  #author
-  background-color:blue
-color: white;
-padding-right: 60px;
-padding-left: 35px;
-text-align: center;
+body {
+  background-color: white;
+}
+h1 {
+  color: grey;
+}
 
-  #play
+#subscribe {
+background-color: #black;
+color: white;
+padding-right: 35px;
+padding-left: 35px;
+text-align:center;
+margin-left: 350px;
+border-color: #F15A29;
+margin-top: 20px;
+}
+#createdby{
+ margin-top: 50px;
+ margin-left: 560px;
+ }
+#aboutpingpong{
+ margin-top: 50px;
+ margin-right: 650px;
+}
+#letsplay{
+ background-color: white;
+ border-color:#F15A29;
+ padding-right: 3%;
+ padding-top: 3%;
+ padding-bottom: 3%;
+ padding-left: 3%;
+ color: #F15A29;
+ margin-top: 16px;
+ margin-left: 16px;
+}
