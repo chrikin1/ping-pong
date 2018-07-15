@@ -1,6 +1,9 @@
 body {
   background-color: white;
 }
+#sectionhead{
+  text-align: center;
+}
 h1 {
   color: grey;
 }
