@@ -6,4 +6,13 @@ function chris (result){
     if (index) % 15===0) {
       moringa.push("pingpong");
     }
-    else
+    else if (index%5===0) {
+      moringa.push("pong");
+      }
+      else if (index% 3 === 0) {
+        moringa.push("ping");
+
+        }
+        else{
+        moringa.push(index);
+        }
