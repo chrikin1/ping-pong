@@ -1,5 +1,9 @@
 $(document).ready(function() {
-  $("form#ping-pong").submit(function(event)  {
-  event.preventDefault();
-  var number = paraseInt($("input#number").val());
-  var result = numbers(number);
+});
+var moringa ={};
+function chris (result){
+  for(index=1;index<=result;index++){
+    if (index) % 15===0) {
+      moringa.push("pingpong");
+    }
+    else
