@@ -1,9 +1,18 @@
 $(document).ready(function() {
+  $("form").sumbit(function(event){
+    event.preventDefault();
+    chris(index);
+    moringas.forEach(function(moringa){
+      $("#list").append("<li>"+moringa+"</li>")
+    });
+  });
 });
-var moringa ={};
-function chris (result){
-  for(index=1;index<=result;index++){
-    if (index) % 15===0) {
+
+var moringas=[];
+var index;
+function chris (y){
+  for(index=1;index<=y;index++){
+    if (index % 15===0) {
       moringa.push("pingpong");
        }
         else if (index%5===0) {
@@ -17,4 +26,4 @@ function chris (result){
         moringa.push(index);
        }
     }
-  };
+  }
