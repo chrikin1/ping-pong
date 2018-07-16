@@ -1,5 +1,12 @@
 body {
-  background-color: white;
+  background-color: blue;
+}
+#firstheading{
+  text-align: center;
+  background-color: maroon;
+}
+#image1{
+  align-content: center;
 }
 #sectionhead{
   text-align: center;
@@ -7,6 +14,120 @@ body {
 h1 {
   color: grey;
 }
+#background1
+
+#a {
+ color: red;
+ text-align: center;
+ background-image: url(images/drink2.jpg);
+}
+#col2 {
+ background-color: orange;
+text-align: right;
+}
+#b {
+ text-align: center;
+ color: maroon;
+}
+#p1 {
+ text-align: center;
+ color: green;
+ background-color: blue;
+ margin-bottom: 0%;
+}
+#c {
+}
+#col1 {
+ text-align: center;
+ background-color: yellow;
+}
+.bartoo {
+ width: 100%;
+ background-color: maroon;
+ align-content: center;
+ text-align: center;
+ margin-top: 0%;
+}
+#drink {
+ height: 1000px;
+}
+#d {
+ text-align: center;
+}
+#p2 {
+ text-align: center;
+}
+#x {
+ background-color: purple;
+ color: white;
+ height: 500px;
+}
+#y {
+ background-color: pink;
+ height: 500px;
+}
+#z {
+ background-color: black;
+ color: orange;
+ height: 500px;
+}
+
+#a {
+ color: red;
+ text-align: center;
+ background-image: url(images/drink2.jpg);
+}
+#col2 {
+ background-color: orange;
+text-align: right;
+}
+#b {
+ text-align: center;
+ color: maroon;
+}
+#p1 {
+ text-align: center;
+ color: green;
+ background-color: blue;
+ margin-bottom: 0%;
+}
+#c {
+}
+#col1 {
+ text-align: center;
+ background-color: yellow;
+}
+.bartoo {
+ width: 100%;
+ background-color: maroon;
+ align-content: center;
+ text-align: center;
+ margin-top: 0%;
+}
+#drink {
+ height: 1000px;
+}
+#d {
+ text-align: center;
+}
+#p2 {
+ text-align: center;
+}
+#x {
+ background-color: purple;
+ color: white;
+ height: 500px;
+}
+#y {
+ background-color: pink;
+ height: 500px;
+}
+#z {
+ background-color: black;
+ color: orange;
+ height: 500px;
+}
+
 
 #subscribe {
 background-color: #black;
@@ -36,4 +157,8 @@ margin-top: 20px;
  color: #F15A29;
  margin-top: 16px;
  margin-left: 16px;
+}
+
+.col-md-8 {
+  background-color: red;
 }
