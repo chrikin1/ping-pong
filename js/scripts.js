@@ -1,4 +1,4 @@
-var moringa=[];
+var moringa=[]
 var index=1;
 function chris (y){
   for(index=1;index<=y;index++){
