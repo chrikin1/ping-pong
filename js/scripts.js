@@ -18,13 +18,17 @@ function chris (y){
     return moringa
   }
 
+  function clearResults(){
+    $('.row #list').text('');
+  }
+
 
 // console.log(chris(12))
 
   $(document).ready(function() {
-    $("#submit").click(function(event){
-      event.preventDefault();
-      $("#result").empty();
+    $(".form-group").on('click','#submit',function(){
+      clearResults();
+      // event.preventDefault();
       // console.log(chris(12))
       var y=parseInt($("#inputval").val());
       // console.log(chris(y))
