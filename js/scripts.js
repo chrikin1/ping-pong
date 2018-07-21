@@ -28,8 +28,13 @@ function chris (y){
       // console.log(chris(12))
       var y=parseInt($("#inputval").val());
       // console.log(chris(y))
-      chris(y).forEach(function(moringa){
-        $("#list").append("<li>"+moringa+"</li>")
+      // chris(y).forEach(function(moringa){
+      //   $("#list").append("<li>"+moringa+"</li>")
+      // });
+      var data='';
+      $.each(chris(y),function(index,value){
+        data+="<li>"+value+"</li>";
       });
+      $('#list').html(data);
     });
   });
