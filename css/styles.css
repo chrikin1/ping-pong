@@ -1,0 +1,164 @@
+body {
+  background-color: blue;
+}
+#firstheading{
+  text-align: center;
+  background-color: maroon;
+}
+#image1{
+  align-content: center;
+}
+#sectionhead{
+  text-align: center;
+}
+h1 {
+  color: grey;
+}
+#background1
+
+#a {
+ color: red;
+ text-align: center;
+ background-image: url(images/drink2.jpg);
+}
+#col2 {
+ background-color: orange;
+text-align: right;
+}
+#b {
+ text-align: center;
+ color: maroon;
+}
+#p1 {
+ text-align: center;
+ color: green;
+ background-color: blue;
+ margin-bottom: 0%;
+}
+#c {
+}
+#col1 {
+ text-align: center;
+ background-color: yellow;
+}
+.bartoo {
+ width: 100%;
+ background-color: maroon;
+ align-content: center;
+ text-align: center;
+ margin-top: 0%;
+}
+#drink {
+ height: 1000px;
+}
+#d {
+ text-align: center;
+}
+#p2 {
+ text-align: center;
+}
+#x {
+ background-color: purple;
+ color: white;
+ height: 500px;
+}
+#y {
+ background-color: pink;
+ height: 500px;
+}
+#z {
+ background-color: black;
+ color: orange;
+ height: 500px;
+}
+
+#a {
+ color: red;
+ text-align: center;
+ background-image: url(images/drink2.jpg);
+}
+#col2 {
+ background-color: orange;
+text-align: right;
+}
+#b {
+ text-align: center;
+ color: maroon;
+}
+#p1 {
+ text-align: center;
+ color: green;
+ background-color: blue;
+ margin-bottom: 0%;
+}
+#c {
+}
+#col1 {
+ text-align: center;
+ background-color: yellow;
+}
+.bartoo {
+ width: 100%;
+ background-color: maroon;
+ align-content: center;
+ text-align: center;
+ margin-top: 0%;
+}
+#drink {
+ height: 1000px;
+}
+#d {
+ text-align: center;
+}
+#p2 {
+ text-align: center;
+}
+#x {
+ background-color: purple;
+ color: white;
+ height: 500px;
+}
+#y {
+ background-color: pink;
+ height: 500px;
+}
+#z {
+ background-color: black;
+ color: orange;
+ height: 500px;
+}
+
+
+#subscribe {
+background-color: #black;
+color: white;
+padding-right: 35px;
+padding-left: 35px;
+text-align:center;
+margin-left: 350px;
+border-color: #F15A29;
+margin-top: 20px;
+}
+#createdby{
+ margin-top: 50px;
+ margin-left: 560px;
+ }
+#aboutpingpong{
+ margin-top: 50px;
+ margin-right: 650px;
+}
+#letsplay{
+ background-color: white;
+ border-color:#F15A29;
+ padding-right: 3%;
+ padding-top: 3%;
+ padding-bottom: 3%;
+ padding-left: 3%;
+ color: #F15A29;
+ margin-top: 16px;
+ margin-left: 16px;
+}
+
+.col-md-8 {
+  background-color: red;
+}
